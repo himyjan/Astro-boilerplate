@@ -5,7 +5,6 @@ import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import image from '@astrojs/image';
 
-
 // https://astro.build/config
 export default defineConfig({
   // base: '.', // Set a path prefix.
@@ -25,5 +24,11 @@ export default defineConfig({
       theme: 'monokai',
     },
   },
-  integrations: [react(), tailwind({}), sitemap(), robotsTxt(), image()],
+  integrations: [
+    react(),
+    tailwind({}),
+    sitemap(),
+    robotsTxt(),
+    image({ serviceEntryPoint: '@astrojs/image/sharp' }),
+  ],
 });
