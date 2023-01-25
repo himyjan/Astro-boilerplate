@@ -23,7 +23,7 @@
     "@tailwindcss/typography": "^0.5.9",
     "@types/react": "^18.0.27",
     "@typescript-eslint/eslint-plugin": "^5.49.0",
-    "@typescript-eslint/parser": "^5.48.2",
+    "@typescript-eslint/parser": "^5.49.0",
     "astro": "^1.9.2",
     "astro-eslint-parser": "^0.11.0",
     "astro-robots-txt": "^0.3.11",
