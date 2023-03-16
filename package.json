@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@astrojs/image": "^0.16.1",
-    "astro-boilerplate-components": "^1.0.9",
+    "astro-boilerplate-components": "^1.0.10",
     "date-fns": "^2.29.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
