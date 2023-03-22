@@ -25,7 +25,7 @@
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
     "astro": "^2.1.4",
-    "astro-eslint-parser": "^0.13.0",
+    "astro-eslint-parser": "^0.13.1",
     "astro-robots-txt": "^0.4.0",
     "eslint": "^8.36.0",
     "eslint-config-airbnb-base": "^15.0.0",
