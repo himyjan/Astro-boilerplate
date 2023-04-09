@@ -1,6 +1,5 @@
-import { type Config } from "tailwindcss";
-
-export default {
+/* eslint-disable import/no-extraneous-dependencies, global-require */
+module.exports = {
   content: [
     './src/**/*.{astro,html,js,jsx,svelte,ts,tsx,vue}',
     './node_modules/astro-boilerplate-components/**/*.{js,ts,jsx,tsx}',
@@ -12,4 +11,4 @@ export default {
     require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/typography'),
   ],
-} satisfies Config;
+};
