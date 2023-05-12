@@ -4789,10 +4789,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-plugin-astro@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.npmjs.org/prettier-plugin-astro/-/prettier-plugin-astro-0.8.0.tgz"
-  integrity sha512-kt9wk33J7HvFGwFaHb8piwy4zbUmabC8Nu+qCw493jhe96YkpjscqGBPy4nJ9TPy9pd7+kEx1zM81rp+MIdrXg==
+prettier-plugin-astro@^0.8.0, prettier-plugin-astro@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.npmjs.org/prettier-plugin-astro/-/prettier-plugin-astro-0.8.1.tgz"
+  integrity sha512-lJ/mG/Lz/ccSwNtwqpFS126mtMVzFVyYv0ddTF9wqwrEG4seECjKDAyw/oGv915rAcJi8jr89990nqfpmG+qdg==
   dependencies:
     "@astrojs/compiler" "^1.0.1"
     prettier "^2.8.3"
@@ -5209,7 +5209,7 @@ rxjs@^7.8.0:
 
 s.color@0.0.15:
   version "0.0.15"
-  resolved "https://registry.npmjs.org/s.color/-/s.color-0.0.15.tgz"
+  resolved "https://registry.yarnpkg.com/s.color/-/s.color-0.0.15.tgz#6b32cd22d8dba95703a5122ddede2020a1560186"
   integrity sha512-AUNrbEUHeKY8XsYr/DYpl+qk5+aM+DChopnWOPEzn8YKzOhv4l2zH6LzZms3tOZP3wwdOyc0RmTciyi46HLIuA==
 
 sade@^1.7.3:
@@ -5234,9 +5234,9 @@ safe-regex-test@^1.0.0:
     is-regex "^1.1.4"
 
 sass-formatter@^0.7.5:
-  version "0.7.5"
-  resolved "https://registry.npmjs.org/sass-formatter/-/sass-formatter-0.7.5.tgz"
-  integrity sha512-NKFP8ddjhUYi6A/iD1cEtzkEs91U61kzqe3lY9SVNuvX7LGc88xnEN0mmsWL7Ol//YTi2GL/ol7b9XZ2+hgXuA==
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/sass-formatter/-/sass-formatter-0.7.6.tgz#aa64b4120c375b71b8b7e18ff60b5f3e17081e3e"
+  integrity sha512-hXdxU6PCkiV3XAiSnX+XLqz2ohHoEnVUlrd8LEVMAI80uB1+OTScIkH9n6qQwImZpTye1r1WG1rbGUteHNhoHg==
   dependencies:
     suf-log "^2.5.3"
 
@@ -5617,7 +5617,7 @@ sucrase@^3.32.0:
 
 suf-log@^2.5.3:
   version "2.5.3"
-  resolved "https://registry.npmjs.org/suf-log/-/suf-log-2.5.3.tgz"
+  resolved "https://registry.yarnpkg.com/suf-log/-/suf-log-2.5.3.tgz#0919a7fceea532a99b578c97814c4e335b2d64d1"
   integrity sha512-KvC8OPjzdNOe+xQ4XWJV2whQA0aM1kGVczMQ8+dStAO6KfEB140JEVQ9dE76ONZ0/Ylf67ni4tILPJB41U0eow==
   dependencies:
     s.color "0.0.15"
