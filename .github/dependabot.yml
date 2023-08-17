@@ -14,15 +14,6 @@ updates:
     # Labels on pull requests for security and version updates
     labels:
       - "npm dependencies"
-  - package-ecosystem: "yarn" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "daily"
-      # Check for npm updates on Sundays
-      # day: "sunday"
-    # Labels on pull requests for security and version updates
-    labels:
-      - "npm dependencies"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
