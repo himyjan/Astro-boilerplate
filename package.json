@@ -24,7 +24,7 @@
     "@types/react": "^18.2.37",
     "@typescript-eslint/eslint-plugin": "^6.8.0",
     "@typescript-eslint/parser": "^6.9.1",
-    "astro": "^3.4.1",
+    "astro": "^3.4.4",
     "astro-eslint-parser": "^0.16.0",
     "astro-robots-txt": "^1.0.0",
     "eslint": "^8.47.0",
