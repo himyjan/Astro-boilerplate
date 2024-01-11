@@ -3,7 +3,7 @@ import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
-import { astroImageTools } from 'astro-imagetools';
+import image from '@astrojs/image';
 
 // https://astro.build/config
 export default defineConfig({
@@ -22,6 +22,6 @@ export default defineConfig({
     tailwind({}),
     sitemap(),
     robotsTxt(),
-    astroImageTools,
+    image({ serviceEntryPoint: '@astrojs/image/sharp' }),
   ],
 });
