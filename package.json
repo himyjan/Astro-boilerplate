@@ -21,7 +21,7 @@
     "@commitlint/config-conventional": "^19.0.0",
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.11",
     "@types/react": "^18.2.70",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
