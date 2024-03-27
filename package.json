@@ -22,7 +22,7 @@
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.11",
-    "@types/react": "^18.2.71",
+    "@types/react": "^18.2.73",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
     "astro": "4.5.9",
