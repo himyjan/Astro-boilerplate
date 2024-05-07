@@ -58,7 +58,7 @@
     "sharp": "^0.33.2"
   },
   "volta": {
-    "node": "20.12.2"
+    "node": "20.13.0"
   },
   "author": "Ixartz (https://github.com/ixartz)"
 }
