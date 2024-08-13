@@ -42,7 +42,7 @@
     "eslint-plugin-tailwindcss": "^3.17.3",
     "eslint-plugin-unused-imports": "^4.1.2",
     "husky": "^9.1.4",
-    "lint-staged": "^15.2.6",
+    "lint-staged": "^15.2.9",
     "path-browserify": "^1.0.1",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.1",
