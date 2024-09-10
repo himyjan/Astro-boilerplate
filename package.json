@@ -23,7 +23,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.15",
     "@types/react": "^18.3.5",
-    "@typescript-eslint/eslint-plugin": "^8.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.5.0",
     "@typescript-eslint/parser": "^8.1.0",
     "astro": "4.15.4",
     "astro-eslint-parser": "^1.0.2",
