@@ -15,7 +15,7 @@
   "devDependencies": {
     "@astrojs/react": "^3.6.1",
     "@astrojs/rss": "^4.0.6",
-    "@astrojs/sitemap": "^3.1.6",
+    "@astrojs/sitemap": "^3.2.0",
     "@astrojs/tailwind": "^5.1.1",
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.5.0",
