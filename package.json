@@ -24,7 +24,7 @@
     "@tailwindcss/typography": "^0.5.15",
     "@types/react": "^18.3.11",
     "@typescript-eslint/eslint-plugin": "^8.14.0",
-    "@typescript-eslint/parser": "^8.12.2",
+    "@typescript-eslint/parser": "^8.14.0",
     "astro": "^5.0.0-beta.7",
     "astro-eslint-parser": "^1.1.0",
     "astro-imagetools": "^0.9.0",
