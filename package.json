@@ -46,7 +46,7 @@
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
     "rimraf": "^6.0.1",
-    "tailwindcss": "^4.0.4",
+    "tailwindcss": "^4.0.11",
     "typescript": "^5.8.2"
   },
   "dependencies": {
